@@ -7,7 +7,7 @@
 
 <br />
 <p align="center">
-  <a href="https://github.com/zemyoro/repo">
+  <a href="https://pm-linkgen.minxteryt.repl.co/?repo=https://zemyoro.github.io/repo">
     <img src="./assets/img/zemyoro.jpg" alt="Logo" width="160" height="160">
   </a>
 
@@ -18,6 +18,7 @@
   </p>
 </p>
 
+[Add repo](https://pm-linkgen.minxteryt.repl.co/?repo=https://zemyoro.github.io/repo)
 
 ## Why did I make this repo?
 
