@@ -19,9 +19,9 @@
 </p>
 
 
-## What this repo is for
+## Why did I make this repo?
 
-I made it just for fun. I may use it a lot, or maybe not.
+To put it simply, for fun. Tweaks and Themes may be added, or maybe not.
 
 ## Want to add tweaks?
 
