@@ -36,7 +36,7 @@ Message me on Discord (Zemyoro#5212) if you want to add tweak/s
 
 
 ## Credits
-* [Litten's Repo](https://github.com/schneelittchen/Repository)
+* [Litten](https://github.com/schneelittchen/Repository)
 * [othneildrew](https://github.com/othneildrew/Best-README-Template/blob/master/README.md)
 
 
