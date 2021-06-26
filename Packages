@@ -16,3 +16,22 @@ Depiction:
 Icon: 
 Name: Kokoro (Test)
 Sileodepiction:
+
+Package: com.nightwind.barx
+Version: 0.0.1-7+debug
+Architecture: iphoneos-arm
+Maintainer: Nightwind
+Installed-Size: 200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.nightwind.barx_0.0.1-7debug_iphoneos-arm.deb
+Size: 6426
+MD5sum: 3dbd443b34fe9ee1b58aa60056ce8ce2
+SHA1: ce19e15d50dc4cadbcf5643cf4c57210882e6027
+SHA256: c27ef6463538af1d3a9acfb5914733fd5a5a6f5177436269ab6ed77d56659c50
+Section: Tweaks
+Description: Make your statusbar black, everywhere!
+Author: Zemyoro <zemyorotweaks@gmail.com>
+Depiction: 
+Icon: 
+Name: barX
+Sileodepiction:
