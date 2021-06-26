@@ -37,7 +37,7 @@ Message me on Discord (Zemyoro#5212) if you want to add tweaks.
 
 
 ## Credits
-* [Litten](https://github.com/schneelittchen/Repository) (Repo)
+* [Litten](https://github.com/schneelittchen/Repository) (Repo & Depictions)
 * [MinxterYT](https://github.com/MinxterYT) (Add Repo Page)
 * [othneildrew](https://github.com/othneildrew/Best-README-Template/blob/master/README.md) (README.md)
 
