@@ -19,9 +19,9 @@
 </p>
 
 
-## What my goal is
+## What this repo is for
 
-I'm just gonna be honest... I don't have a goal. This is just for fun (For now)
+I made it just for fun. I may use it a lot, or maybe not.
 
 ## Want to add tweaks?
 
