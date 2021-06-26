@@ -25,7 +25,7 @@ To put it simply, for fun. Tweaks and Themes may be added, or maybe not.
 
 ## Want to add tweaks?
 
-Message me on Discord (Zemyoro#5212) if you want to add tweak/s
+Message me on Discord (Zemyoro#5212) if you want to add tweaks.
 
 
 
