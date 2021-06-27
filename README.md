@@ -18,9 +18,7 @@
   </p>
 </p>
 
-[Add repo](https://pm-linkgen.minxteryt.repl.co/?repo=https://zemyoro.github.io/repo)
-
-[Repo Page](https://zemyoro.github.io/repo)
+[Add Repo](https://pm-linkgen.minxteryt.repl.co/?repo=https://zemyoro.github.io/repo) | [Repo Page](https://zemyoro.github.io/repo)
 
 ## Why did I make this repo?
 
