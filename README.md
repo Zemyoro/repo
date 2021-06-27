@@ -32,7 +32,7 @@ Contact me with the contact links below :)
 
 ## Contact
 
-[@ZemyoroDev](https://twitter.com/ZemyoroDev) - [u/Zemyoro](https://reddit.com/u/zemyoro) - Zemyorotweaks@gmail.com
+[Twitter](https://twitter.com/ZemyoroDev) - [Reddit](https://reddit.com/u/zemyoro) - Zemyorotweaks@gmail.com
 
 
 
