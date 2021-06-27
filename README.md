@@ -39,7 +39,7 @@ Message me on Discord (Zemyoro#5212) if you want to add tweaks.
 
 
 ## Credits
-* [Nightwind](https://github.com/NightwindDev) (Helped with tweaks & Theos)
+* [Nightwind](https://github.com/NightwindDev) (Helped with tweaks & Theos)(Kokoro Logo)
 * [Luki120](https://github.com/Luki120) (Helped with tweaks & Theos)
 * [MinxterYT](https://github.com/MinxterYT) (Helped with tweaks, Theos, & Add repo page)
 * [RuntimeOverflow](https://github.com/RuntimeOverflow) (Helped with tweaks & Theos)
