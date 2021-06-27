@@ -26,13 +26,13 @@ To put it simply, for fun. Tweaks and Themes may be added, or maybe not.
 
 ## Want to add tweaks?
 
-Contact me with the contact links below :)
+Contact me with the contact options below :)
 
 
 
 ## Contact
 
-[Twitter](https://twitter.com/ZemyoroDev) - [Reddit](https://reddit.com/u/zemyoro) - Zemyorotweaks@gmail.com
+[Twitter](https://twitter.com/ZemyoroDev) - [Reddit](https://reddit.com/u/zemyoro) - Discord: Zemyoro#5212 - Zemyorotweaks@gmail.com
 
 
 
