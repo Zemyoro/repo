@@ -20,6 +20,8 @@
 
 [Add repo](https://pm-linkgen.minxteryt.repl.co/?repo=https://zemyoro.github.io/repo)
 
+[Repo Page](https://zemyoro.github.io/repo)
+
 ## Why did I make this repo?
 
 To put it simply, for fun. Tweaks and Themes may be added, or maybe not.
