@@ -37,11 +37,10 @@ Message me on Discord (Zemyoro#5212) if you want to add tweaks.
 
 
 ## Credits
-* [Nightwind](https://github.com/NightwindDev) (Helped me with tweaks & Theos)
-* [Luki120](https://github.com/Luki120) (Helped me with tweaks & Theos)
-* [MinxterYT](https://github.com/MinxterYT) (Helped with tweaks & Theos)
+* [Nightwind](https://github.com/NightwindDev) (Helped with tweaks & Theos)
+* [Luki120](https://github.com/Luki120) (Helped with tweaks & Theos)
+* [MinxterYT](https://github.com/MinxterYT) (Helped with tweaks, Theos, & Add repo page)
 * [RuntimeOverflow](https://github.com/RuntimeOverflow) (Helped with tweaks & Theos)
-* [MinxterYT](https://github.com/MinxterYT) (Add Repo Page)
 * [Litten](https://github.com/schneelittchen/Repository) (Repo & Theos)
 * [othneildrew](https://github.com/othneildrew/Best-README-Template/blob/master/README.md) (README.md)
 
