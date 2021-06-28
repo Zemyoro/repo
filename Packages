@@ -1,20 +1,20 @@
 Package: com.zemyoro.kokoro
-Version: 0.1-7
+Version: 0.1-8
 Architecture: iphoneos-arm
 Maintainer: Zemyoro <zemyorotweaks@gmail.com>
-Installed-Size: 252
+Installed-Size: 324
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.zemyoro.kokoro_0.1-7+debug_iphoneos-arm.deb
-Size: 12260
-MD5sum: a646ba13eec30cb1fcb594d19279a24e
-SHA1: 16d17888bdc84241e98d9df17cb744b9adafe72b
-SHA256: cf8532c04919a55296db1b4c56e53b9bb927e86bb6563d35f7f4d0883c9cbeec
+Filename: debs/com.zemyoro.kokoro_0.1-8+debug_iphoneos-arm.deb
+Size: 12262
+MD5sum: aeff9dea829c938acbdea765dfc5ef15
+SHA1: feedb0e953db8261b3a96093001ae22c9e41e337
+SHA256: d639d1d0218dbf5fd361c61b6b1113f3d0c30a1fb3c604aa8287936aaebf5ced
 Section: Tweaks
 Description: Make your battery into a heart! (Not Final Purpose)
 Author: Zemyoro <zemyorotweaks@gmail.com>
 Depiction: 
 Icon: https://raw.githubusercontent.com/Zemyoro/repo/main/assets/kokoroicon.png
-Name: Kokoro
+Name: Kokoro (Beta)
 Sileodepiction:
 
 Package: com.nightwind.barx
