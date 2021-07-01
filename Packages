@@ -1,14 +1,14 @@
 Package: com.zemyoro.kokoro
-Version: 0.1-65+debug
+Version: 0.1-8+debug
 Architecture: iphoneos-arm
 Maintainer: Zemyoro <zemyorotweaks@gmail.com>
 Installed-Size: 332
 Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal
-Filename: debs/com.zemyoro.kokoro_0.1-65+debug_iphoneos-arm.deb
-Size: 19208 
-MD5sum: 6caa4ebf1aeda554c53ea8a915f2072b
-SHA1: 77f047918955e71627e2cd3be6a047fc555d1a27
-SHA256: 06033d17aeee2da782933e69c35dce04434b1c45b025f9ab0c52b77668d3d6c0
+Filename: debs/com.zemyoro.kokoro_0.1-8+debug_iphoneos-arm.deb
+Size: 20108 
+MD5sum: 097e11fd543d61f99be2b5d2196451b8
+SHA1: cad1b21dd53970f971255b30b9594ae56b288c58
+SHA256: e458fc7b1a46b85ac70354f222eb982ace3a04e0255e4e446437ba886ff2a552
 Section: Tweaks
 Description: Make your battery into a heart! (Not Final Purpose)
 Author: Zemyoro <zemyorotweaks@gmail.com>
